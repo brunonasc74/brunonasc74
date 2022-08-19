@@ -4,7 +4,7 @@
  
 I'm from the state of Minas Gerais, Brazil. Am a web developer who loves learning new things everyday that also have a thing for mobile development. Currently learning more about React. Feel free to reach me out anytime you like. 
 
-Sou do interior de Minas Gerais. Um desenvolvedor web que ama aprender novas coisas todos os dias que também gosta de desenvolvimento móvel. Atualmente aprendendo mais sobre React. Sinta-se à vontade para entrar em contato comigo a qualquer hora.
+Sou do interior de Minas Gerais. Um desenvolvedor web que ama aprender novas coisas todos os dias que também gosta de desenvolvimento mobile. Atualmente aprendendo mais sobre React. Sinta-se à vontade para entrar em contato comigo a qualquer hora.
 
 ## <h3 align="center">GitHub Stats</h3>
  </br>
