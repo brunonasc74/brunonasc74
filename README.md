@@ -11,5 +11,5 @@ Sou do interior de Minas Gerais. Um desenvolvedor web que ama aprender novas coi
  
  <div align = "center">
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=brunonasc74&include_all_commits=true&show_icons=true&title_color=2cc1eb&text_color=e7e7e7&icon_color=2cc1eb&bg_color=0b0e13"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonasc74&layout=compact&title_color=2cc1eb&text_color=e7e7e7&icon_color=007bff&bg_color=0b0e13"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonasc74&layout=compact&title_color=2cc1eb&text_color=e7e7e7&icon_color=007bff&bg_color=0b0e13&langs_count=6"/>
 </div>
